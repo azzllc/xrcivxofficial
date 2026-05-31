@@ -1,0 +1,14 @@
+{
+  "name": "xrcivxofficial-restapi",
+  "version": "1.0.0",
+  "description": "REST API backend by xrcivxofficial",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.9"
+  }
+}
